@@ -5729,11 +5729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\test\\test.csproj",
+      "projectUniqueName": "c:\\Users\\GorodiskiyG\\Git\\Site\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\test\\test.csproj",
+      "projectPath": "c:\\Users\\GorodiskiyG\\Git\\Site\\test\\test.csproj",
       "packagesPath": "C:\\Users\\GorodiskiyG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\test\\obj\\",
+      "outputPath": "c:\\Users\\GorodiskiyG\\Git\\Site\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
