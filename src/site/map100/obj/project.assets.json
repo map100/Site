@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\src\\site\\map100\\map100.csproj",
+      "projectUniqueName": "C:\\Users\\GorodiskiyG\\Git\\Site\\src\\site\\map100\\map100.csproj",
       "projectName": "map100",
-      "projectPath": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\src\\site\\map100\\map100.csproj",
+      "projectPath": "C:\\Users\\GorodiskiyG\\Git\\Site\\src\\site\\map100\\map100.csproj",
       "packagesPath": "C:\\Users\\GorodiskiyG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GorodiskiyG\\RiderProjects\\Site\\src\\site\\map100\\obj\\",
+      "outputPath": "C:\\Users\\GorodiskiyG\\Git\\Site\\src\\site\\map100\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
