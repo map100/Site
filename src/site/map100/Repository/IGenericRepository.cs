@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
  
-namespace GenRepApp
+namespace map100.Repository
 {
     public interface IGenericRepository<TEntity> where TEntity : class
     {
